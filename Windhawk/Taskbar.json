@@ -75,7 +75,7 @@
   "controlStyles[18].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.Name=Task View] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon",
   "controlStyles[18].styles[0]": "Visibility=Collapsed",
   "controlStyles[19].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement",
-  "controlStyles[19].styles[0]": "Background:=<ImageBrush Stretch=\"none\" ImageSource=\"https://raw.githubusercontent.com/MrDLingters/Win11CoffeeChristmas/refs/heads/main/Windhawk/WinButton.png"/>",
+  "controlStyles[19].styles[0]": "Background:=<ImageBrush Stretch=\"none\" ImageSource=\"https://raw.githubusercontent.com/MrDLingters/Win11CoffeeChristmas/refs/heads/main/Windhawk/WinButton.png\"/>",
   "controlStyles[20].target": "Taskbar.TaskListButtonPanel > Border#BackgroundElement",
   "controlStyles[20].styles[0]": "Margin=0",
   "controlStyles[20].styles[1]": "BorderThickness=1",
@@ -95,5 +95,4 @@
   "styleConstants[7]": "Border = #B08B59",
   "resourceVariables[0].variableKey": "",
   "resourceVariables[0].value": ""
-
 }
